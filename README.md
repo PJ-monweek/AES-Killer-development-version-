@@ -1,5 +1,5 @@
 # AES Killer (Burp Suite Plugin - Development Version)
-This project was developed by reference from [AES-Killer](https://github.com/Ebryx/AES-Killer) to support the decryption of more AES encrypted traffic on Burp Suite.
+This project was developed with reference from [AES-Killer](https://github.com/Ebryx/AES-Killer) to support the decryption of more AES encrypted traffic on Burp Suite.
 
 ![Main AES Killer](https://user-images.githubusercontent.com/70949343/150760360-e182db42-cf51-4466-9a96-6d0c72e4a4a2.png)
 
