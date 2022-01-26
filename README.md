@@ -7,7 +7,7 @@ This project was developed with reference from [AES-Killer](https://github.com/E
 * Burp Suite
 
 ### What it does
-* The IProxyListener decrypt requests and encrypt responses, and an IHttpListener than encrypt requests and decrypt responses.
+* The IProxyListener decrypts requests and encrypts responses, and an IHttpListener then encrypts requests and decrypts responses.
 * Burp sees the decrypted traffic, including Repeater, Intruder and Scanner, but the client/mobile app and server see the encrypted version.
 
 ### AES Support
